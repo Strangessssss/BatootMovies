@@ -1,0 +1,20 @@
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\bin\Debug\net8.0-windows\Batoot Movies.exe
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\bin\Debug\net8.0-windows\Batoot Movies.deps.json
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\bin\Debug\net8.0-windows\Batoot Movies.runtimeconfig.json
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\bin\Debug\net8.0-windows\Batoot Movies.dll
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\bin\Debug\net8.0-windows\Batoot Movies.pdb
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Views\MainMenu.g.cs
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies_MarkupCompile.cache
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies_MarkupCompile.lref
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Views\MainMenu.baml
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.g.resources
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.AssemblyInfoInputs.cache
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.AssemblyInfo.cs
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.csproj.CoreCompileInputs.cache
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.dll
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\refint\Batoot Movies.dll
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.pdb
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.genruntimeconfig.cache
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\ref\Batoot Movies.dll
