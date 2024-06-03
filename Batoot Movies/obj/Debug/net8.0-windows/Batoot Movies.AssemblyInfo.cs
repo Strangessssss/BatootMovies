@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Batoot Movies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f21c693c2e27f91752b3a2b6f8421db499a635")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b8823f24f6b3c47570ef74e93919f91fe4b7f44")]
 [assembly: System.Reflection.AssemblyProductAttribute("Batoot Movies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Batoot Movies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

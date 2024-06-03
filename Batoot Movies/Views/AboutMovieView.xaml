@@ -18,7 +18,9 @@
                 <Image Source="{Binding Movie.FullBackdropPath}" />
             </Label>
         </StackPanel>
-        
-        <TextBlock Width="300" HorizontalAlignment="Left" Margin="210 0 0 0" Foreground="White" TextWrapping="Wrap" Text="{Binding Movie.Overview}"/>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock HorizontalAlignment="Left" FontSize="15" FontWeight="Medium" Margin="0 0 0 0" Foreground="White" TextWrapping="Wrap" Text="{Binding Movie.Title}"/>
+            <TextBlock HorizontalAlignment="Left" FontSize="15" FontWeight="Medium" Margin="210 0 0 0" Foreground="White" TextWrapping="Wrap" Text="{Binding Movie.Overview}"/>
+        </StackPanel>
     </StackPanel>
 </UserControl>
