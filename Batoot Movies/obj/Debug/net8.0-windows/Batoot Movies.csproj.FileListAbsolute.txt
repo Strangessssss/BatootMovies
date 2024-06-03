@@ -18,3 +18,14 @@ C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows
 C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.pdb
 C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.genruntimeconfig.cache
 C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\ref\Batoot Movies.dll
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.sourcelink.json
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot Movies.csproj.AssemblyReference.cache
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Batoot M.4A8DE754.Up2Date
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Views\AboutMovieView.g.cs
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\Views\AboutMovieView.baml
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\tima\RiderProjects\Batoot Movies\Batoot Movies\obj\Debug\net8.0-windows\MainWindow.baml
